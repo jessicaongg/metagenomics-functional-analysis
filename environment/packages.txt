@@ -1,0 +1,16 @@
+R
+tidyverse
+ggplot2
+phyloseq
+DESeq2
+vegan
+KEGGREST
+pheatmap
+readr
+dplyr
+tidyr
+tibble
+kableExtra
+scales
+rmarkdown
+knitr
