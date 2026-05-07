@@ -1,0 +1,32 @@
+# Large sequencing/data files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.vcf
+*.vcf.gz
+
+# Raw data directory
+data/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# RMarkdown outputs
+*.html
+*.pdf
+*.docx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Temporary files
+tmp/
+logs/
